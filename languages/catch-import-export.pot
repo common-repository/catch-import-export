@@ -1,0 +1,319 @@
+# Copyright (C) 2018-2022 Catch Plugins
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Import Export\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2024-04-16 23:41+0545\n"
+"PO-Revision-Date: 2016-12-12 09:23-0500\n"
+"Last-Translator: Sakin Shrestha <info@catchplugins.com>\n"
+"Language-Team: Catch Plugins <info@catchplugins.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_attr_e;esc_attr__;_nx;_x;"
+"esc_html_e;esc_html__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-catch-import-export-admin.php:133
+#: ../admin/class-catch-import-export-admin.php:136
+msgid "Please choose a file to import."
+msgstr ""
+
+#: ../admin/class-catch-import-export-admin.php:150
+#: ../admin/partials/dashboard-display.php:30
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-catch-import-export-admin.php:161
+#: ../admin/class-catch-import-export-admin.php:162
+#: ../admin/class-catch-import-export-admin.php:184
+#: ../admin/partials/catch-import-export-display.php:17
+msgid "Catch Import/Export"
+msgstr ""
+
+#: ../admin/class-catch-import-export-admin.php:173
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/class-catch-import-export-admin.php:375
+msgid "Error importing settings! Please try again."
+msgstr ""
+
+#: ../admin/class-catch-import-export-admin.php:389
+#: ../admin/class-catch-import-export-admin.php:393
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+
+#: ../admin/class-catch-import-export-admin.php:397
+msgid ""
+"Error importing settings! The settings you uploaded are not for the current "
+"theme."
+msgstr ""
+
+#: ../admin/classes/control.php:2 ../admin/classes/control.php:7
+#: ../admin/partials/dashboard-display.php:40
+msgid "Export"
+msgstr ""
+
+#: ../admin/classes/control.php:5 ../admin/partials/dashboard-display.php:37
+msgid ""
+"Click the button below to export the customization settings for this theme."
+msgstr ""
+
+#: ../admin/classes/control.php:12 ../admin/classes/control.php:25
+#: ../admin/partials/dashboard-display.php:59
+msgid "Import"
+msgstr ""
+
+#: ../admin/classes/control.php:15 ../admin/partials/dashboard-display.php:50
+msgid "Upload a file to import customization settings for this theme."
+msgstr ""
+
+#: ../admin/classes/control.php:20 ../admin/partials/dashboard-display.php:55
+msgid "Download and import image files?"
+msgstr ""
+
+#: ../admin/classes/control.php:24 ../admin/partials/dashboard-display.php:58
+msgid "Uploading..."
+msgstr ""
+
+#: ../admin/partials/catch-import-export-display.php:19
+msgid ""
+"Catch Import/Export is a simple and easy-to-use import/export plugin that "
+"addresses the need for importing and exporting of customizer settings from "
+"any WordPress theme to another website without any exertion."
+msgstr ""
+
+#: ../admin/partials/catch-import-export-display.php:25
+msgid "Dashboard"
+msgstr ""
+
+#: ../admin/partials/catch-import-export-display.php:26
+#: ../admin/partials/features-display.php:4
+msgid "Features"
+msgstr ""
+
+#: ../admin/partials/catch-import-export-display.php:34
+msgid "Catch Themes & Catch Plugins Tabs"
+msgstr ""
+
+#: ../admin/partials/catch-import-export-display.php:39
+msgid ""
+"If you want to turn off Catch Themes & Catch Plugins tabs option in Add "
+"Themes and Add Plugins page, please uncheck the following option."
+msgstr ""
+
+#: ../admin/partials/catch-import-export-display.php:44
+msgid "Turn On Catch Themes & Catch Plugin tabs"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:19
+msgid "Plugin Options Saved."
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:34
+msgid "<h3>Export</h3>"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:47
+msgid "<h3>Import</h3>"
+msgstr ""
+
+#: ../admin/partials/features-display.php:10
+msgid "CIE: Import"
+msgstr ""
+
+#: ../admin/partials/features-display.php:11
+msgid ""
+"Importing means reusing the customizer setting of a particular theme from an "
+"exported file. While importing, you have to use the theme or child theme "
+"that has been used in the export file. Importing customizer settings with "
+"Catch Import/Export is exceptionally easy. You can import the customizer "
+"settings either from the customizer directly or from the Catch Import/Export "
+"Settings page in the admin area."
+msgstr ""
+
+#: ../admin/partials/features-display.php:15
+msgid "CIE: Export"
+msgstr ""
+
+#: ../admin/partials/features-display.php:16
+msgid ""
+"Exporting customizer settings allows you to reuse your theme presets on "
+"other websites without any exertion. Find the export option in both "
+"customizer and the plugin’s setting page (Dashboard > Catch Import/Export). "
+"Check the box next to ‘Download and import image files?’ option to import "
+"header and other image files. The exported files are named after your theme "
+"and have to be imported with the same theme or its child theme installed."
+msgstr ""
+
+#: ../admin/partials/features-display.php:19
+msgid "Lightweight"
+msgstr ""
+
+#: ../admin/partials/features-display.php:20
+msgid ""
+"With the new WordPress plugin for importing and exporting customizer "
+"settings, Catch Import/Export installed, you will not have to worry about "
+"your website getting slower. The plugin is extremely lightweight and doesn’t "
+"take much space on your website."
+msgstr ""
+
+#: ../admin/partials/features-display.php:24
+msgid "Super Simple to Set Up"
+msgstr ""
+
+#: ../admin/partials/features-display.php:25
+msgid ""
+"It is super easy to set up. Even the beginners can set it up easily and "
+"also, you do not need to have any coding knowledge. Just install, activate, "
+"and perform the export/import task straightforwardly."
+msgstr ""
+
+#: ../admin/partials/features-display.php:28
+msgid "Lesser Configuration"
+msgstr ""
+
+#: ../admin/partials/features-display.php:29
+msgid ""
+"The plugin comes with the configuration option to export and import the "
+"customizer settings only. It means lesser workload for you with less "
+"misperception."
+msgstr ""
+
+#: ../admin/partials/features-display.php:33
+msgid "Supports all Themes on WordPress"
+msgstr ""
+
+#: ../admin/partials/features-display.php:34
+msgid ""
+"Catch Import/Export has been crafted in a way that is compatible with any "
+"WordPress theme as long as they are installed on your website. The plugin "
+"functions smoothly on every WordPress theme."
+msgstr ""
+
+#: ../admin/partials/features-display.php:37
+msgid "Incredible Support"
+msgstr ""
+
+#: ../admin/partials/features-display.php:38
+msgid ""
+"For exporting or importing the customizer settings, our plugin documentation "
+"answers the questions about using the plugin. If you still have "
+"difficulties, feel free to post your issues on our “Support” forum."
+msgstr ""
+
+#: ../admin/partials/footer.php:4
+msgid "Catch Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:9
+msgid "View Themes"
+msgstr ""
+
+#: ../admin/partials/footer.php:10
+msgid "View Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:11
+msgid "Support"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:3
+msgid "Recommendations"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:8
+msgid "Premium Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:9
+msgid ""
+"Check out our simple, clean and responsive Premium WordPress Themes that "
+"come with an array of crucial features with a superior functionality."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:9
+msgid "Check our premium themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:16
+msgid "Free Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:17
+msgid ""
+"Check out our collection of Free WordPress Themes that are clean, simple and "
+"feature-rich."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:17
+msgid "Check our free themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:25
+msgid "Premium Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:26
+msgid ""
+"Check out our secured Premium WordPress Plugins to enhance and add extra "
+"functionalities to your website. An exceptional way to get the most out of "
+"WordPress!"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:26
+msgid "Check our premium plugins."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:34
+msgid "Free Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:35
+msgid ""
+"Check out our Free WordPress Plugins and get the taste of our service "
+"without affecting your wallet."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:36
+msgid "check our free plugins."
+msgstr ""
+
+#: ../includes/CatchThemesThemePlugin.php:154
+msgid "Themes by CatchThemes"
+msgstr ""
+
+#: ../includes/CatchThemesThemePlugin.php:434
+msgctxt "Plugin Installer"
+msgid "Catch Plugins"
+msgstr ""
+
+#: ../includes/CatchThemesThemePlugin.php:473
+#, php-format
+msgid ""
+"You can use any of our free plugins or premium plugins from <a href=\"%s\" "
+"target=\"_blank\">Catch Plugins</a>"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:59
+msgid "Invalid Nonce"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:62
+msgid "Permission denied!"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:75
+msgid "Connection Error. Please try again."
+msgstr ""
